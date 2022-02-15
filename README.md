@@ -192,7 +192,7 @@ git push -u origin main
 
 ## setup your project 
 
-<a href="https://app.circleci.com/projects/github/Avnish327030/setup/"> Setup project </a>
+<a href="https://app.circleci.com/pipelines/github/Ashishkumar-hub/"> Setup project </a>
 
 ## Select project setting in CircleCI and below environment variable
 
@@ -205,7 +205,6 @@ HEROKU_EMAIL_ADDRESS
 DOCKER_IMAGE_NAME=wafercircle3270303
 ```
 
-
 ## to update the modification
 
 ```
@@ -213,9 +212,6 @@ git add .
 git commit -m "proper message"
 git push 
 ```
-
-
-## #docker login -u $DOCKERHUB_USER -p $DOCKER_HUB_PASSWORD_USER docker.io
 
     
     
